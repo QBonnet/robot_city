@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e2214b912f341c4cbaa09cd2689a1ba, type: 3}
+  m_Name: Heavy
+  m_EditorClassIdentifier: 
+  m_name: Heavy
+  m_damage: 20
+  m_range: 100
+  m_magazineSize: 50
+  m_fireRate: 2
+  m_reloadTime: 4
+  m_graphics: {fileID: 6836727642889132081, guid: 043796b89e9b30d4fa6bd142cb262882, type: 3}
+  m_shootSound: {fileID: 8300000, guid: c2236a75ceb123b41bf828650e1931a4, type: 3}
+  m_reloadSound: {fileID: 8300000, guid: 55b11104acefee34f9897bb9ec7eaf45, type: 3}
